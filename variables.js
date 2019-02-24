@@ -1,8 +1,8 @@
 var canvas = document.getElementById("myCanvas");
-var ctx = canvas.getContext("2d");  
+var ctx = canvas.getContext("2d");
 
 var score = 0;
-var lives = 3;
+var lives = 4;
 
 var x = canvas.width/2;
 var y = canvas.height-30;
