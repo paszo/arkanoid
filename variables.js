@@ -17,8 +17,8 @@ var paddleX = (canvas.width-paddleWidth)/2;
 
 var brickRowCount = 3;
 var brickColumnCount = 5;
-var brickWidth = 75;
-var brickHeight = 20;
+var brickWidth = 85;
+var brickHeight = 30;
 var brickPadding = 10;
 var brickOffsetTop = 30;
 var brickOffsetLeft = 30;
